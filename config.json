@@ -1,0 +1,11 @@
+{
+  "weather": {
+    "city": "Istanbul",
+    "units": "metric",
+    "refresh_interval": 10
+  },
+  "logging": {
+    "enabled": true,
+    "log_file": "logs/weather.log"
+  }
+}
